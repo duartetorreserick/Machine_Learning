@@ -1,0 +1,145 @@
+﻿Id;Name;Gender;Job;House;Patronus;Species;Blood status;Loyalty;Skills
+1;Harry James Potter;Male;Student;Gryffindor;Stag;Human;Half-blood;Albus Dumbledore | Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry;Parseltongue| Defence Against the Dark Arts | Seeker
+2;Ronald Bilius Weasley;Male;Student;Gryffindor;Jack Russell terrier;Human;Pure-blood;Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry;Wizard chess | Quidditch goalkeeping
+3;Hermione Jean Granger;Female;Student;Gryffindor;Otter;Human;Muggle-born;Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry;Almost everything
+4;Albus Percival Wulfric Brian Dumbledore;Male;Headmaster;Gryffindor;Phoenix;Human;Half-blood;Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry;Considered by many to be one of the most powerful wizards of his time | Fire | very intelligent |everything
+5;Rubeus Hagrid;Male;Keeper of Keys and Grounds | Professor of Care of Magical Creatures ;Gryffindor;None;Half-Human/Half-Giant;Part-Human (Half-giant);Albus Dumbledore | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry;Resistant to stunning spells| above average strength | crossbowmanship
+6;Neville Longbottom;Male;Student;Gryffindor;Non-corporeal;Human;Pure-blood;Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry;Herbology
+7;Fred Weasley;Male;Student;Gryffindor;Unknown;Human;Pure-blood;Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry;Beater
+8;George Weasley;Male;Student;Gryffindor;Unknown;Human;Pure-blood;Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry;Beater
+9;Ginevra (Ginny) Molly Weasley;Female;Student;Gryffindor;Horse;Human;Pure-blood;Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry;Chaser| Bat-Bogey hex
+10;Dean Thomas;Male;Student;Gryffindor;Unknown;Human;Muggle-born;Dumbledore's Army | Hogwarts School of Witchcraft and Wizardry;Chaser
+11;Seamus Finnigan;Male;Student;Gryffindor;Fox;Human;Half-blood;Dumbledore's Army | Hogwarts School of Witchcraft and Wizardry;Pyrotechnics
+12;Lily J. Potter;Female;;Gryffindor;Doe;Human;Muggle-born;Order of the Phoenix;
+13;James Potter;Male;;Gryffindor;Stag;Human;Pure-blood;Order of the Phoenix;Animagus| Seeker
+14;Sirius Black;Male;;Gryffindor;Unknown;Human;Pure-blood;Order of the Phoenix;Animagus| nonverbal magic| Charms
+15;Remus John Lupin;Male;Professor of Defence Against the Dark Arts ;Gryffindor;Wolf;Werewolf;Half-blood;Order of the Phoenix;Exceptionally gifted in Defence Against the Dark Arts
+16;Peter Pettigrew;Male;The Servant of Lord Voldemort;Gryffindor;None;Human;Half-blood or pure-blood;Lord Voldemort| Death Eaters;Animagus
+17;Percy Ignatius Weasley;Male;Student|Prefect|  Personal assistant to Barty Crouch Snr ;Gryffindor;Unknown;Human;Pure-blood;Order of the Phoenix| Hogwarts School of Witchcraft and Wizardry |British Ministry of Magic;Intelligent| hard-working| a model student
+18;(Bill) William Arthur Weasley;Male;Curse-Breaker for Gringotts Bank;Gryffindor;Unknown;Human (Werewolf traits);Pure-blood;Order of the Phoenix;Highly skilled curse-breaker for Gringotts Wizarding Bank| very intelligent| past Hogwarts Head Boy
+19;Charles Weasley;Male;Dragonologist;Gryffindor;Unknown;Human;Pure-blood;Order of the Phoenix | Gringotts Wizarding Bank;Highly skilled dragon trainer| one-time Gryffindor Seeker
+20;Lee Jordan ;Male;Student;Gryffindor;Unknown;Human;Pure-blood or half-blood;Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry;Quidditch commentary | broadcasting
+21;Oliver Wood;Male;Student;Gryffindor;Unknown;Human;Pure-blood or Half-blood;Hogwarts School of Witchcraft and Wizardry;Keeper|  Captain of the Gryffindor Quidditch team
+22;Angelina Johnson;Female;Student;Gryffindor;Unknown;Human;Unknown;Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry;Chaser
+23;Katie Bell;Female;Student;Gryffindor;Unknown;Human;Pure-blood or half-blood;Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry;Chaser
+24;Alicia Spinnet;Female;Student;Gryffindor;Unknown;Human;Pure-blood or half-blood;Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry;Chaser
+25;Lavender Brown;Female;Student;Gryffindor;Unknown;Human;Pure-blood;Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry;Divination
+26;Parvati Patil;Female;Student;Gryffindor;Unknown;Human;Pure-blood or half-blood;Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry;Divination
+27;Romilda Vane;Female;Student;Gryffindor;Unknown;Human;Pure-blood or half-blood;Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry;Spiking Chocolate Cauldrons with love potion
+28;Colin Creevey;Male;Student;Gryffindor;Unknown;Human;Muggle-born;Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry;Photography
+29;Cormac McLaggen;Male;Student;Gryffindor;Unknown;Human;Pure-blood or half-blood;Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry;Quidditch Keeper
+30;Minerva McGonagall;Female;Professor of Transfiguration | Head of Gryffindor;Gryffindor;Cat;Human;Half-blood;Albus Dumbledore | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry;Animagus 
+31;Molly Weasley;Female;;Gryffindor;Unknown;Human;Pure-blood;Order of the Phoenix;Household spells| healing magic
+32;Arthur Weasley;Male;Head of the Misuse of Muggle Artefacts Office;Gryffindor;Weasel;Human;Pure-blood;Order of the Phoenix| British Ministry of Magic;Muggle world works
+33;Quirinus Quirrell;Male;Defence Against the Dark Arts(1991-1992);Ravenclaw;Non-corporeal;Human;Half-blood;Lord Voldemort;Learned in the theory of Defensive Magic| less adept in the practise
+34;Cho Chang;Female;Student;Ravenclaw;Swan;Human;Pure-blood or half-blood;Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry;Seeker
+35;Luna Lovegood;Female;Student;Ravenclaw;Hare;Human;Pure-blood or half-blood;Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry;Spotting Nargles
+36;Gilderoy Lockhart;Male;Defence Against the Dark Arts(1992-1993);Ravenclaw;Non-corporeal;Human;Half-blood;;
+37;Filius Flitwick;Male;Professor of Charms | Head of Ravenclaw;Ravenclaw;Non-corporeal;Human(goblin ancestry);Part-Goblin;;Charms
+38;Sybill Patricia Trelawney;Female;Professor of Divination;Ravenclaw;Non-corporeal;Human;Half-blood;;A Seer, though the gift is unpredictable and unconscious
+39;Garrick Ollivander;Male;Wandmaker;Ravenclaw;Non-corporeal;Human;Half-blood;;An incomparable understanding of wandcraft
+40;Myrtle Elizabeth Warren (Moaning Myrtle);Female;Student;Ravenclaw;Unknown;Ghost;Muggle-born;;
+41;Padma Patil;Female;Student;Ravenclaw;Non-corporeal;Human;Pure-blood or half-blood;Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry;Prefect
+42;Michael Corner;Male;Student;Ravenclaw;Squirrel;Human;Half-blood;Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry;Potions
+43;Marietta Edgecombe;Female;Student;Ravenclaw;Unknown;Human;Pure-blood or half-blood;;Covering up the spots that blight her face after betraying Dumbledore's Army
+44;Terry Boot;Male;Student;Ravenclaw;Unknown;Human;Pure-blood or half-blood;Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry;Potions, also knowledgable about Charms
+45;Anthony Goldstein;Male;Student;Ravenclaw;Non-corporeal;Human;Half-blood;Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry;Prefect
+46;Severus Snape;Male;Professor of Potions | Head of Slytherin;Slytherin;Doe;Human;Half-blood;;potions | Occlumency
+47;Draco Malfoy;Male;Student;Slytherin;Unknown;Human;Pure-blood;;Prefect, Seeker
+48;Vincent Crabbe;Male;Student;Slytherin;Unknown;Human;Pure-blood;;Beater
+49;Gregory Goyle;Male;Student;Slytherin;Unknown;Human;Pure-blood;;Beater
+50;Bellatrix Lestrange;Female;;Slytherin;;Human;Pure-blood;Lord Voldemort  | Death Eaters;duellist of great skill | an experienced Occlumens
+51;Dolores Jane Umbridge;Female;Professor of Defence Against the Dark Arts | Department of Magical Law Enforcement;Slytherin;Cat;Human;Half-blood;Ministry of Magic;Her punishment quill is of her own invention
+52;Horace Eugene Flaccus Slughorn;;Professor of Potions ;Slytherin;Non-corporeal;Human;Pure-blood or half-blood;;Accomplished Occlumens, expert Potioneer, advanced self-transfiguration
+53;Lucius Malfoy;Male;School Governor;Slytherin;Unknown;Human;Pure-blood;Lord Voldemort  | Death Eaters;Skilled duellist | potioneer
+54;Narcissa Malfoy;Female;;Slytherin;Unknown;Human;Pure-blood;Lord Voldemort  | Death Eaters;
+55;Regulus Arcturus Black;Male;;Slytherin;Non-corporeal;Human;Pure-blood;;Seeker
+56;Pansy Parkinson;Female;Student;Slytherin;Unknown;Human;Pure-blood or half-blood;;Prefect
+57;Blaise Zabini;Male;Student;Slytherin;Unknown;Human;Pure-blood or half-blood;;Chaser
+58;Tom Marvolo Riddle;Male;Student;Slytherin;Unknown;Human;Half-blood;;Dark Lord | Outstanding manipulation | Parseltongue | Heir of Slytherin | Dark magic | Inferi creation and control
+59;Theodore Nott;Male;Student;Slytherin;Unknown;Human;Pure-blood;;
+60;Rodolphus Lestrange;Male;;Slytherin;Unknown;Human;Pure-blood;Lord Voldemort  | Death Eaters;
+61;Millicent Bulstrode;Female;Student;Slytherin;Unknown;Human;Half-blood;;
+62;Graham Montague;Male;Student;Slytherin;Unknown;Human;Pure-blood or half-blood;;Quidditch captain | Chaser
+63;Bloody Baron;Male;Slytherin House Ghost;Slytherin;Unknown;Ghost;Pure-blood or half-blood;;Controlling Peeves
+64;Marcus Flint;Male;Student;Slytherin;Unknown;Human;Pure-blood or half-blood;;Chaser | Captain
+65;Penelope Clearwater;Female;Student;Ravenclaw;Non-corporeal;Human;Muggle-born or half-blood[;;Prefect
+66;Roger Davies;Male;Student;Ravenclaw;Unknown;Human;;;Quidditch | Chaser
+67;Marcus Belby;Male;Student;Ravenclaw;Unknown;Human;Pure-blood or half-blood;;
+68;Salazar Slytherin;Male;Founder of Slytherin;Slytherin;Unknown;Human;Pure-blood;;Accomplished Legilimens | one of the first recorded Parselmouths
+69;Godric Gryffindor;Male;Founder of Gryffindor;Gryffindor;Unknown;Human;Pure-blood or half-blood;;The most accomplished duellist of his time
+70;Rowena Ravenclaw;Female;Founder of Ravenclaw;Ravenclaw;Unknown;Human;Pure-blood or half-blood;;Extremely skilled | intelligence | wisdom
+71;Nicholas de Mimsy-Porpington;Male;Gryffindor House Ghost;Gryffindor;Unknown;Ghost;;;
+72;Cuthbert Binns;Male;Professor of History of Magic ;;Unknown;Ghost;;;Boring a class with facts that might be interesting if anyone else was giving the lesson
+73;Barty Crouch Jr.;Male;Professor of Defence Against the Dark Arts (as Alastor Moody) ;;Unknown;Human;Pure-blood or half-blood;Lord Voldemort  | Death Eaters;Skilled potioneer
+74;Charity Burbage;Female;Professor of Muggle Studies;;Non-corporeal;Human;Pure-blood or half-blood;;Teaching and studying the Muggle world
+75;Firenze;Male;Professor of Divination;;;Centaur;;;
+76;Alecto Carrow;Female;Professor of Muggle Studies;Slytherin;Unknown;Human;Pure-blood or half-blood;Lord Voldemort  | Death Eaters;Spreading anti-Muggle propaganda
+77;Amycus Carrow;Male;Professor of Dark Arts;Slytherin;Unknown;Human;Pure-blood or half-blood;Lord Voldemort  | Death Eaters;Cruciatus Curse
+78;Helga Hufflepuff;Female;Founder of Hufflepuff;Hufflepuff;Unknown;Human;Pure-blood or half-blood;;Food-related Charms. Many traditional Hogwarts recipes originated with her
+79;Fat Friar;Male;Hufflepuff House Ghost;Hufflepuff;Unknown;Ghost;;;Curing peasants of the pox
+80;Helena Ravenclaw;Female;Ravenclaw House Ghost;Ravenclaw;Unknown;Ghost;Pure-blood or half-blood;;
+81;Nymphadora Tonks;Female;Auror;Hufflepuff;Jack rabbit, Wolf;Human;Half-blood;Ministry of Magic | Order of the Phoenix;Talented Auror, Metamorphmagus
+82;Pomona Sprout;Female;Professor of Herbology | Head of Hufflepuff House;Hufflepuff;Non-corporeal;Human;Pure-blood or half-blood;;Herbology
+83;Newton Scamander;Male;Employee in the Beast Division of the Department for the Regulation and Control of Magical Creatures;Hufflepuff;Unknown;Human;Pure-blood or half-blood;;Magizoology, Order of Merlin, Second Class
+84;Cedric Diggory;Male;Student;Hufflepuff;Unknown;Human;Pure-blood;;Skilled Seeker
+85;Justin Finch-Fletchley;Male;Student;Hufflepuff;Non-corporeal;Human;Muggle-born;Dumbledore's Army;
+86;Zacharias Smith;Male;Student;Hufflepuff;Unknown;Human;Pure-blood or half-blood;Dumbledore's Army;Chaser
+87;Hannah Abbott;Female;Student;Hufflepuff;Non-corporeal;Human;Half-blood;Dumbledore's Army;Defensive spells, learned with Dumbledore's Army
+88;Ernest Macmillan;Male;Student;Hufflepuff;Boar;Human;Pure-blood;Dumbledore's Army;Revising, being a Prefect, getting the wrong end of the stick
+89;Susan Bones;Female;Student;Hufflepuff;Unknown;Human;Half-blood;Dumbledore's Army;Defensive spells, learned with Dumbledore's Army
+90;Walden Macnair;Male;Executioner for the Committee for the Disposal of Dangerous Creatures;Slytherin;Unknown;Human;Pure-blood or half-blood;Lord Voldemort  | Death Eaters;Liaising with giants
+91;Augustus Rookwood;Male;Unspeakable;Slytherin;None;Human;Pure-blood or half-blood;Lord Voldemort  | Death Eaters;Spying for Lord Voldemort
+92;Antonin Dolohov;Male;Death Eater;Slytherin;None;Human;Pure-blood or Half-blood;Lord Voldemort  | Death Eaters;Duelling. Fought and killed Molly Weasley's brothers and Remus Lupin
+93;Corban Yaxley;Male;Head of the Department of Magical Law Enforcement;Slytherin;None;Human;Pure-blood or Half-blood;Lord Voldemort  | Death Eaters;Imperius curse, undercover work
+94;Igor Karkaroff;Male;Headmaster of Durmstrang Institute;;None;Human;Pure-blood or Half-blood;;Skilled in the Dark Arts
+95;Kingsley Shacklebolt;Male;Auror  | Minister for Magic;;Lynx;Human;Pure-blood;Order of the Phoenix;Exceptionally skilled duellist and Auror
+96;Alastor Moody;Male;Auror ;;Non-corporeal;Human;Pure-blood;Order of the Phoenix;A highly accomplished Auror and an outstanding duellist, also skilled in non-verbal magic
+97;Alice Longbottom;Female;Auror;;Unknown;Human;Pure-blood;Original Order of the Phoenix;Auror
+98;Frank Longbottom;Male;Auror;Gryffindor;Unknown;Human;Pure-blood;Original Order of the Phoenix;Auror
+99;Rufus Scrimgeour;Male;Head of Auror Office| Minister for Magic;;Non-corporeal;Human;;Minister of Magic;Highly regarded as a skilled Auror
+100;Cornelius Oswald Fudge;Male;Minister for Magic;;Non-corporeal;Human;Pure-blood or Half-blood;Minister of Magic;Turning a blind eye to the continuing threat of Dark Magic in the name of keeping up morale
+101;Barty Crouch Sr.;Male;Head of the Department of International Magical Cooperation;;Non-corporeal;Human;Pure-blood;Minister of Magic;Multilingual, able to fight the Imperius curse
+102;Amos Diggory;Male;Employee of the Department for the Regulation and Control of Magical Creatures[;;Non-corporeal;Human;Pure-blood or half-blood;Minister of Magic;Works for the Department for the Regulation and Control of Magical Creatures
+103;Dedalus Diggle;Male;;;Non-corporeal;Human;Pure-blood or half-blood;Order of the Phoenix;An enthusiastic volunteer for the Order and a helpful escort for Harry and his relatives
+104;Elphias Doge;Male;Special Advisor to the Wizengamot;;Non-corporeal;Human;Pure-blood;Order of the Phoenix;Writing
+105;Fleur Isabelle Delacour;Female;Part-time at Gringotts Wizarding Bank;Beauxbatons Academy of Magic;Non-corporeal;Human;Quarter-Veela;Order of the Phoenix;part Veela, and therefore possesses some of their magical powers. She was also selected to compete in the Triwizard Tournament
+106;Aberforth Dumbledore;Male;Owner and Barman of the Hog's Head Inn;;Goat;Human;Half-blood;Order of the Phoenix;Bartending, caring for Ariana
+107;Mundungus Fletcher;Male;Dealer of wizarding artifacts;;Non-corporeal;Human;Half-blood[;Order of the Phoenix;Gathering information for the Order, dealing in stolen cauldrons, 'acquiring' the odd Muggle car
+108;Sturgis Podmore;Male;Advance Guard;;Unknown;Human;Pure-blood or half-blood;Order of the Phoenix;Carrying out guard duty for the Order
+109;Hestia Jones;Female;Advance Guard;;Unknown;Human;Pure-blood or half-blood;Order of the Phoenix;Carrying out escort missions for the Order
+110;Marlene McKinnon;Female;;;Unknown;Human;;Original Order of the Phoenix;
+111;Fabian Prewett;Male;;;Unknown;Human;Pure-blood;Original Order of the Phoenix;Duelling
+112;Gideon Prewett;Male;;;Unknown;Human;Pure-blood;Original Order of the Phoenix;Duelling
+113;Emmeline Vance;Female;Advance Guard;;Unknown;Human;;Order of the Phoenix;
+114;Edgar Bones;Male;;Hufflepuff;Unknown;Human;Pure-blood or half-blood;Original Order of the Phoenix;Said to be a great wizard
+115;Dorcas Meadowes;Female;;;Unknown;Human;;Original Order of the Phoenix;
+116;Benjy Fenwick;Male;;;Unknown;Human;;Original Order of the Phoenix;
+117;Madame Olympe Maxime;Female;Headmistress of Beauxbatons Academy of Magic;Beauxbatons Academy of Magic;Unknown;Half-Human/Half-Giant;Part-Human (Half-giant);;An ‘excellent dancer’, in the words of Dumbledore himself
+118;Gabrielle Delacour;Female;;Beauxbatons Academy of Magic;Unknown;Human ;Quarter-Veela;;part Veela and therefore may possess some of their magical powers
+119;Viktor Krum;Male;Seeker for the Bulgarian National Quidditch team;Durmstrang Institute;Unknown;Human ;Pure-blood or half-blood;;One of the best Seekers in the world
+120;Petunia Dursley;Female;;;;Human ;Muggle;;
+121;Vernon Dursley;Male;Director at Grunnings;;;Human ;Muggle;;Schmoozing clients, pretending magic doesn't exist
+122;Dudley Dursley;Male;;;;Human ;Muggle;;
+123;Marge Dursley;Female;Dog breeder;;;Human ;Muggle;;Breeding bulldogs
+124;Dennis Creevey;Male;Student;Gryffindor;Unknown;Human ;Muggle-born;Dumbledore's Army;
+125;Albus Severus Potter;Male;Student;Slytherin;Unknown;Human ;Half-blood;;
+126;Scorpius Hyperion Malfoy;Male;Student;Slytherin;Unknown;Human ;Pure-blood;;
+127;Edward Remus Lupin;Male;Student;Hufflepuff;Unknown;Human (Metamorphmagus);Half-blood;;
+128;James Sirius Potter;Male;Student;Gryffindor;Unknown;Human ;Half-blood;;
+129;Rose Granger-Weasley;Female;Student;Gryffindor;Unknown;Human ;Half-blood;;Chaser
+130;Argus Filch;Male;Caretaker of Hogwarts;;;Human ;Squib;Hogwarts School of Witchcraft and Wizardry;Sniffing out mischief
+131;Poppy Pomfrey;Female;Matron at Hogwarts School;;Non-corporeal;Human ;Pure-blood or half-blood;Hogwarts School of Witchcraft and Wizardry;Skilled medical healer
+132;Rolanda Hooch;Female;Flying Instructor at Hogwarts;;Non-corporeal;Human ;;Hogwarts School of Witchcraft and Wizardry;Teaching | flying | refereeing Quidditch matches
+133;Irma Pince;Female;Librarian at Hogwarts;;Non-corporeal;Human ;;Hogwarts School of Witchcraft and Wizardry;
+134;Aurora Sinistra;Female;Astronomer at Hogwarts;;Unknown;Human ;Pure-blood or half-blood;Hogwarts School of Witchcraft and Wizardry;
+135;Septima Vector;Female;Professor of Arithmancyat Hogwarts;;Unknown;Human ;;Hogwarts School of Witchcraft and Wizardry;
+136;Wilhelmina Grubbly-Plank;Female;Substitute professor of Care of Magical Creatures at Hogwarts;;Non-corporeal;Human ;;Hogwarts School of Witchcraft and Wizardry;
+137;Fenrir Greyback;Male;;;None;Werewolf;;Lord Voldemort  | Death Eaters;Physical combat
+138;Gellert Grindelwald;Male;Revolutionary leader(c. 1920s[6] – 1945);;;Human ;Pure-blood or half-blood;Gellert Grindelwald's Acolytes;Duelling
+139;Dobby;Male;"Malfoy family's house-elf (? - 1993),
+Hogwarts kitchens worker (December 1994 - 1998)";;;House elf;;;A type of magic specific to house-elves, performed without a wand which includes the ability to apparate, disarm and make objects levitate
+140;Kreacher;Male;"
+Black family's house-elf (?-1996), 
+Harry Potter's house-elf, 
+Hogwarts kitchen worker ";;;House elf;;;Magic performed without a wand which includes the ability to apparate, disarm and make objects levitate
